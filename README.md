@@ -1,2 +1,2 @@
 # linkedin-job-extractor
-AI chatbot for Fano clothing brand that assists customers in Tunisian Arabic and logs order details to Google Sheets.
+Automated workflow that extracts job listings from LinkedIn for specified companies (Google, Microsoft) using Apify API. Runs on a schedule, collects employment data via residential proxy, and outputs results as downloadable files for analysis or recruitment tracking.
